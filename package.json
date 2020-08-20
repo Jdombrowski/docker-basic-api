@@ -1,0 +1,24 @@
+{
+  "name": "docker-basic-api",
+  "version": "1.0.0",
+  "description": "Proof of concept for a docker API system for a proof of concept iteration for jdombrowski/planttrack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdombrowski/docker-basic-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jdombrowski/docker-basic-api/issues"
+  },
+  "homepage": "https://github.com/Jdombrowski/docker-basic-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  }
+}
